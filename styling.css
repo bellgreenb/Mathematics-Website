@@ -1,6 +1,5 @@
 #container {
     width: 1050px;
-    border: 1px solid grey;
     height: 100px;
     margin: 0 auto;
 }
@@ -161,4 +160,11 @@ ul{
 }
 #rightsidebar{
     float: right;
+}
+
+.footer{
+    height: 60px;
+    background: linear-gradient(#f6f390, #d5d533);
+    padding: 10px 30px;
+    margin-top: 15px;
 }
